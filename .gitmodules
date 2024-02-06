@@ -1,0 +1,6 @@
+[submodule "EcomBackEnd"]
+	path = EcomBackEnd
+	url = https://github.com/hediske/HedisKomBackend.git
+[submodule "EcomFrontEnd"]
+	path = EcomFrontEnd
+	url = https://github.com/hediske/HedisKomFrontend.git
